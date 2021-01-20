@@ -1,0 +1,50 @@
+html,
+body {
+   margin: 0px;
+   min-height: 100%;
+   width: 100%;
+}
+section {
+  height: 100vh;
+}
+a {
+text-decoration: none;
+color: white;
+}
+
+.play {
+  position: absolute;
+  top: 33%;
+  left: 50%;
+  width: 25%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.center {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  width: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.sectionFreek{
+    background:linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%),
+                                    url('https://assets.televizier.nl/upload/f/t/Freek-Vonk-litteken-erbij.jpg');
+    background-position:center center;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.sectionJungle{
+    background:linear-gradient(90deg, rgba(255, 255, 255, 0.5) 0%, rgba(255, 255, 255, 0.5) 100%),
+                                   url('https://www.backpackcentrale.nl/wp-content/uploads/2019/12/Omslagfoto-jungle.jpg');
+    background-position:center center;
+    background-repeat:no-repeat;
+    background-size:cover;
+
+}
+.square {
+  height: 50%;
+  background-color: #4CAF50;
+}

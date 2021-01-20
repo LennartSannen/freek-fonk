@@ -1,0 +1,30 @@
+.block {
+  display: block;
+  border: none;
+  background-color: black;
+  padding: 8% 16%;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  transition-duration: 0.4s;
+}
+.block:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+  opacity: 0.2;
+}
+.block2 {
+  display: block;
+  border: none;
+  background-color: black;
+  padding: 8% 16%;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  transition-duration: 0.4s;
+}
+.block2:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+  font-size: 56px;
+}

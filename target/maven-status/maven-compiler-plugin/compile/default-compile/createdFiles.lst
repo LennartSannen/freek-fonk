@@ -1,0 +1,13 @@
+com\springboot\freekfonk\dto\PlayerDto.class
+com\springboot\freekfonk\controller\StartController.class
+com\springboot\freekfonk\service\PlayerService.class
+com\springboot\freekfonk\dto\MatchDto.class
+com\springboot\freekfonk\controller\MatchController.class
+com\springboot\freekfonk\FreekFonkApplication.class
+com\springboot\freekfonk\model\Player.class
+com\springboot\freekfonk\model\Match.class
+com\springboot\freekfonk\repository\MatchRepository.class
+com\springboot\freekfonk\controller\PlayerController.class
+com\springboot\freekfonk\repository\PlayerRepository.class
+com\springboot\freekfonk\service\MatchService.class
+com\springboot\freekfonk\config\PageStructure.class
